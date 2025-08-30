@@ -10,10 +10,10 @@ I have spent the time given learning basic Python from YouTube and using AI to h
 
 The features of the program:
 
-1)Does not take invalid input (anything which is not an integer)
+1) Does not take invalid input (anything which is not an integer)
 
-2)Counts attempts
+2) Counts attempts
 
-3)Let the user know to guess higher or lower
+3) Let the user know to guess higher or lower
 
 
